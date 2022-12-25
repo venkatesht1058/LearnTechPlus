@@ -1,0 +1,152 @@
+ /* slideshow  */
+#btn{
+   
+    background-image: linear-gradient(to left, #0000ff, #f41fd6 100%,#dc0916);
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-weight: bold;
+}
+#premiumpluss{
+    background-image: linear-gradient(to left, #87CEEB, #1E90FF, #AFEEEE);
+    padding: 40px;
+}
+
+/* our featured Courses */
+#course{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#courses{
+    margin-top: 15px;
+}
+
+/* About Learn Tech Plus */
+
+#about1{
+    background-color:black;
+    color: aliceblue;
+    border-radius: 5px;
+}
+#about2{
+    background-color:black;
+    color: aliceblue;
+    border-radius: 5px;
+
+}
+#about3{
+    background-color:black;
+    color: aliceblue;
+    border-radius: 5px;
+}
+#techplus{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 25px;
+}
+#about{
+    background-color: #4682B4;
+    /* padding: 25px; */
+    margin-top: 15px;
+}
+
+
+
+/* leran techs */
+#learntechs{
+    margin-top: 15px;
+}
+#learntech{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+/* Premium Plus */
+
+
+#premiumplus{
+    background-image: linear-gradient(to left, #E0FFFF, #F0FFF0);
+   /* padding: 30px; */
+   margin-top: 15px;
+ 
+}
+#premium{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 5px;
+}
+.ul1>li{
+    list-style: none;
+    list-style-type: square;
+}
+
+/* Tech Support */
+#techsupport{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#techsupports{
+    margin-top: 15px;
+}
+
+
+
+/* Contact */
+#contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    line-height: 15px;
+   
+}
+
+#contacts{
+    background-image: linear-gradient(to left, #87CEFA, 	#AFEEEE);
+    /* padding: 10px; */
+    margin-top: 10px;
+}
+
+
+
+
+
+
+h1{
+    margin-bottom: 20px;
+}
+.nav-link:hover{
+    outline-style: inset;
+    background-image: linear-gradient(to left,	#000000,#98AFC7);
+    border-radius: 20px 10px 20px 10px;
+}
+
+.navbar-brand:hover{
+    text-shadow: 0.9px 0.9px;
+    color: #C6DEFF;
+}
+
+/* :target::before{
+    content: '';
+    display: block;
+    height: 80px !important;
+    margin-top: -80px;
+   
+} */
+
+#carouselExampleControls{
+    margin-top: 60px;
+}
+
+/* div:target {
+    padding-top: 65px; 
+    margin-top: -65px;
+  } 
+  */
